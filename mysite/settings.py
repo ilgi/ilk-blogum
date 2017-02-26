@@ -25,7 +25,7 @@ SECRET_KEY = 'frb9u#(wrcxow2kxl=#_3pl0t_539%n*%(2r9bpw8!o=-%45_w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ilgi.pythonanywhere.com']
 
 
 # Application definition
